@@ -21,7 +21,6 @@
             <img src="img/">
         </td>
     </tr>
-
 </table>
 
 ## About
