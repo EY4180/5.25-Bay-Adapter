@@ -11,10 +11,10 @@
   </tr>
   <tr>
     <td>
-      <img width="460" height="300" src="img/inventor.png">
+      <img height="300" src="img/inventor.png">
     </td>
     <td>
-    <img width="460" height="300" src="img/">
+    <img height="300" src="img/">
     </td>
   </tr>
 </table>
