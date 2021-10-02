@@ -8,7 +8,7 @@
     </tr>
     <tr>
         <td>
-            <img height="300" src="img/inventor.png">
+            <img src="img/inventor.png">
         </td>
     </tr>
     <tr>
@@ -18,7 +18,7 @@
     </tr>
     <tr>
         <td>
-            <img height="300" src="img/">
+            <img src="img/">
         </td>
     </tr>
 
