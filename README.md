@@ -1,4 +1,4 @@
-# 5.25" Bay Converter
+# 5.25" Bay Adapter
 
 <table>
     <tr>
