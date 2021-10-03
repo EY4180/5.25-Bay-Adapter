@@ -11,16 +11,6 @@
             <img src="img/inventor.png">
         </td>
     </tr>
-    <tr>
-        <td>
-            <b>Production</b>
-        </td>
-    </tr>
-    <tr>
-        <td>
-            <img src="img/">
-        </td>
-    </tr>
 </table>
 
 ## About
